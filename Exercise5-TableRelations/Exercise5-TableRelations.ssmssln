@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "OneToOne", "OneToOne\OneToOne.ssmssqlproj", "{5D506D4D-DC03-47A6-A6E5-ADBC1399E4F3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "OneToMany", "OneToMany\OneToMany.ssmssqlproj", "{9ED6ACEC-A0A2-474C-8AF6-4A4DE145D5A9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ManyToMany", "ManyToMany\ManyToMany.ssmssqlproj", "{D6F373A1-1D23-413C-AA5B-D4AB957A8CB4}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SelfReferencing", "SelfReferencing\SelfReferencing.ssmssqlproj", "{2908F32D-BD97-4B9E-BB27-2EA52D5E5412}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "OnlineStore", "OnlineStore\OnlineStore.ssmssqlproj", "{57EB6C30-94A6-4D97-8D00-B9B42925FA07}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "University", "University\University.ssmssqlproj", "{A7DD0402-3ED0-434A-8383-2763367882CC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Geography", "Geography\Geography.ssmssqlproj", "{F733E641-973F-43ED-BC3F-37B754E11B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D506D4D-DC03-47A6-A6E5-ADBC1399E4F3}.Default|Default.ActiveCfg = Default
+		{059E250F-C74C-4EB8-A50A-BE25821D1E8A}.Default|Default.ActiveCfg = Default
+		{9ED6ACEC-A0A2-474C-8AF6-4A4DE145D5A9}.Default|Default.ActiveCfg = Default
+		{D6F373A1-1D23-413C-AA5B-D4AB957A8CB4}.Default|Default.ActiveCfg = Default
+		{2908F32D-BD97-4B9E-BB27-2EA52D5E5412}.Default|Default.ActiveCfg = Default
+		{57EB6C30-94A6-4D97-8D00-B9B42925FA07}.Default|Default.ActiveCfg = Default
+		{A7DD0402-3ED0-434A-8383-2763367882CC}.Default|Default.ActiveCfg = Default
+		{F733E641-973F-43ED-BC3F-37B754E11B0C}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
