@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SoftUni">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(Local)\SQLExpress:ROG-MATRIX\Avanglion">
+          <Created>2018-06-12T12:59:34.5185379+03:00</Created>
+          <Type>SQL</Type>
+          <Server>(Local)\SQLExpress</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>SoftUni</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AddressesWithTowns.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AddressesWithTowns.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Employee24.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Employee24.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EmployeeAddress.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EmployeeAddress.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EmployeeDepartments.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EmployeeDepartments.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EmployeeManager.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EmployeeManager.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EmployeesHiredAfter.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EmployeesHiredAfter.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EmployeeSummary.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EmployeeSummary.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EmployeesWithoutProject.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EmployeesWithoutProject.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EmployeesWithProject.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EmployeesWithProject.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MinAverageSalary.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MinAverageSalary.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SalesEmployee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SalesEmployee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SoftUni-Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(Local)\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(Local)\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SoftUni-Database.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
