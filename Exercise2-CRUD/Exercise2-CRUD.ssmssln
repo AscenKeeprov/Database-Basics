@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SoftUni", "SoftUni\SoftUni.ssmssqlproj", "{BC9DCEB6-8BBD-4A50-A379-C8667C14DCD1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Geography", "Geography\Geography.ssmssqlproj", "{2A72E144-62EF-443D-85BA-5265354EE10A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Diablo", "Diablo\Diablo.ssmssqlproj", "{F9846F88-E213-482C-940C-B7A992213852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9DCEB6-8BBD-4A50-A379-C8667C14DCD1}.Default|Default.ActiveCfg = Default
+		{C1422396-7745-41B7-AD7F-F526D88DA210}.Default|Default.ActiveCfg = Default
+		{2A72E144-62EF-443D-85BA-5265354EE10A}.Default|Default.ActiveCfg = Default
+		{F9846F88-E213-482C-940C-B7A992213852}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
