@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Minions", "Minions\Minions.ssmssqlproj", "{767AB196-85D2-424B-9DEA-244BFEC173BE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Movies", "Movies\Movies.ssmssqlproj", "{D52C6F72-00BD-4AE4-98D9-1CCDF2415686}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CarRental", "CarRental\CarRental.ssmssqlproj", "{DA0DECAE-C1B8-4C3A-AAAE-3BB7D9C3279C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Hotel", "Hotel\Hotel.ssmssqlproj", "{0FD2F3A4-92E6-4656-A7E6-1257E8957120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767AB196-85D2-424B-9DEA-244BFEC173BE}.Default|Default.ActiveCfg = Default
+		{D52C6F72-00BD-4AE4-98D9-1CCDF2415686}.Default|Default.ActiveCfg = Default
+		{DA0DECAE-C1B8-4C3A-AAAE-3BB7D9C3279C}.Default|Default.ActiveCfg = Default
+		{0FD2F3A4-92E6-4656-A7E6-1257E8957120}.Default|Default.ActiveCfg = Default
+		{F82F52A3-D963-4A99-A28C-7D62C330004D}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
